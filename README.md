@@ -1,7 +1,10 @@
-# Aula-5
-Informações Projeto
-A "MAster sofreu atualização há 9 dias atrás.
-1 Branch
+﻿# aula1
+Arquivos da primeira aula de versionamento
 
-36 Colaboradores
-3.165 commits
+Inclusao de linha para teste.
+
+Dados para a versão 2.
+
+Alteração feita no desktop Windows.
+
+Amanda
